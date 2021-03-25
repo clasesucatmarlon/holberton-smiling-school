@@ -37,35 +37,35 @@ For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
 
 ## Tasks
 
-- [Task 1. Header first](./0-homepage.html): Create the header/hero piece
+- Create the header/hero piece
 
-- [Task 2. Carousel of quotes](./1-homepage.html): Create the section “Carousel of quotes”
+- Create the section “Carousel of quotes”
 
-- [Task 3. Popular videos](./2-homepage.html): Create the section “Most popular tutorials”
+- Create the section “Most popular tutorials”
 
-- [Task 4. Row of smiles](./3-homepage.html): Create the section “Free membership”
+- Create the section “Free membership”
 
-- [Task 5. Latest videos](./4-homepage.html): Create the section “Latest videos”
+- Create the section “Latest videos”
 
-- [Task 6. ... and the footer! ](./homepage.html): Create the footer
+- Create the footer
 
-- [Task 7. Pricing - header](./0-pricing.html): Now, let’s do the pricing page: create the header/hero piece.
+- Now, let’s do the pricing page: create the header/hero piece.
 
-- [Task 8. Prices grid](./1-pricing.html): Create the prices grid
+- Create the prices grid
 
-- [Task 9. Quotes section](./2-pricing.html): Same as the Homepage, create the Carousel of quotes
+- Same as the Homepage, create the Carousel of quotes
 
-- [Task 10. FAQ](./3-pricing.html): Create the FAQ grid
+- Create the FAQ grid
 
-- [Task 11. Close the page with a footer](./pricing.html): Same as Homepage, create the footer.
+- Same as Homepage, create the footer.
 
-- [Task 12. Courses - header](./0-courses.html): Now, let’s do the courses page: create the header/hero piece
+- Now, let’s do the courses page: create the header/hero piece
 
-- [Task 13. Search filters](./1-courses.html): Create the search filters section
+- Create the search filters section
 
-- [Task 14. Courses - header](./2-courses.html): Create the result section of courses
+- Create the result section of courses
 
-- [Task 15. Close the page with a footer ](./courses.html): Same as Homepage and Pricing page, create the footer
+- Same as Homepage and Pricing page, create the footer
 
 --- 
 ## Author 
